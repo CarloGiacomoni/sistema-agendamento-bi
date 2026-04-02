@@ -41,13 +41,18 @@ A solução utiliza o ecossistema gratuito do Google para garantir **custo zero 
 
 ---
 
-## 🔐 Nota sobre Privacidade e Propriedade Intelectual
-Por se tratar de uma solução desenvolvida para um cliente real, os dados sensíveis, IDs de planilhas e o código-fonte proprietário foram omitidos deste repositório para garantir a segurança da informação e a ética profissional. 
+🔐 Nota sobre Privacidade e Ética Profissional
+Por se tratar de uma solução desenvolvida para um cliente real, todos os dados sensíveis, IDs de planilhas e credenciais foram rigorosamente anonimizados para garantir a segurança da informação e a ética profissional.
 
-As imagens apresentadas na documentação utilizam dados de demonstração (fictícios) e uma versão simplificada do código para fins de demonstração de competências em:
-* Arquitetura de Dados
-* Automação de Processos (ETL)
-* Visualização de Dados (BI)
+O script de automação (automacao_agenda.js) disponibilizado neste repositório representa a lógica estrutural e funcional exata desenvolvida para o negócio, porém limpa de quaisquer identificadores reais. Da mesma forma, as imagens apresentadas no dashboard utilizam exclusivamente dados de demonstração (fictícios).
+
+O objetivo deste repositório é demonstrar competências práticas em:
+
+Arquitetura e Validação de Dados (Single Source of Truth)
+
+Automação de Processos e ETL
+
+Visualização de Dados e Business Intelligence
 
 ---
 **Arquiteto de Dados:** Carlo Giacomoni  
