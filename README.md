@@ -48,12 +48,9 @@ O script de automação (automacao_agenda.js) disponibilizado neste repositório
 
 O objetivo deste repositório é demonstrar competências práticas em:
 
-Arquitetura e Validação de Dados (Single Source of Truth)
-
-Automação de Processos e ETL
-
-Visualização de Dados e Business Intelligence
-
+* Arquitetura e Validação de Dados (Single Source of Truth)
+* Automação de Processos e ETL
+* Visualização de Dados e Business Intelligence
 ---
 **Arquiteto de Dados:** Carlo Giacomoni  
 **Stack:** Google Sheets, Google Apps Script, Google Calendar API, Looker Studio.
